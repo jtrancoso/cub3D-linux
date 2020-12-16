@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+cube3d
+color_test.c
+hook_test.c
+img_test.c
+loop_test.c
+test.png
+test.xpm
